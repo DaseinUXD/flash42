@@ -12,7 +12,7 @@
 	import com.HorzWidget;
 	import com.VertWidget;
 	
-	import mc_Domino;
+	import mcDomino;
 //	import Domino;
 //	import DominoLoader;
 //	import DominoPull;
