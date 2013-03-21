@@ -12,7 +12,7 @@
 	import com.HorzWidget;
 	import com.VertWidget;
 	
-	import mc_Domino;
+	import assets.mcDomino;
 //	import Domino;
 //	import DominoLoader;
 //	import DominoPull;
@@ -35,40 +35,40 @@
 
 		// domino hands
 		private var southHand:Array;
-			private var dominoS1:mc_Domino; // South player's hand domino 1
-			private var dominoS2:mc_Domino;
-			private var dominoS3:mc_Domino;
-			private var dominoS4:mc_Domino;
-			private var dominoS5:mc_Domino;
-			private var dominoS6:mc_Domino;
-			private var dominoS7:mc_Domino;
+			private var dominoS1:mcDomino; // South player's hand domino 1
+			private var dominoS2:mcDomino;
+			private var dominoS3:mcDomino;
+			private var dominoS4:mcDomino;
+			private var dominoS5:mcDomino;
+			private var dominoS6:mcDomino;
+			private var dominoS7:mcDomino;
 
 		private var northHand:Array;
-			private var dominoN1:mc_Domino; // North player's hand domino 1
-			private var dominoN2:mc_Domino;
-			private var dominoN3:mc_Domino;
-			private var dominoN4:mc_Domino;
-			private var dominoN5:mc_Domino;
-			private var dominoN6:mc_Domino;
-			private var dominoN7:mc_Domino;
+			private var dominoN1:mcDomino; // North player's hand domino 1
+			private var dominoN2:mcDomino;
+			private var dominoN3:mcDomino;
+			private var dominoN4:mcDomino;
+			private var dominoN5:mcDomino;
+			private var dominoN6:mcDomino;
+			private var dominoN7:mcDomino;
 
 		private var eastHand:Array;
-			private var dominoE1:mc_Domino; // East player's hand domino 1
-			private var dominoE2:mc_Domino;
-			private var dominoE3:mc_Domino;
-			private var dominoE4:mc_Domino;
-			private var dominoE5:mc_Domino;
-			private var dominoE6:mc_Domino;
-			private var dominoE7:mc_Domino;
+			private var dominoE1:mcDomino; // East player's hand domino 1
+			private var dominoE2:mcDomino;
+			private var dominoE3:mcDomino;
+			private var dominoE4:mcDomino;
+			private var dominoE5:mcDomino;
+			private var dominoE6:mcDomino;
+			private var dominoE7:mcDomino;
 
 		private var westHand:Array;
-			private var dominoW1:mc_Domino; // West player's hand domino 1
-			private var dominoW2:mc_Domino;
-			private var dominoW3:mc_Domino;
-			private var dominoW4:mc_Domino;
-			private var dominoW5:mc_Domino;
-			private var dominoW6:mc_Domino;
-			private var dominoW7:mc_Domino;
+			private var dominoW1:mcDomino; // West player's hand domino 1
+			private var dominoW2:mcDomino;
+			private var dominoW3:mcDomino;
+			private var dominoW4:mcDomino;
+			private var dominoW5:mcDomino;
+			private var dominoW6:mcDomino;
+			private var dominoW7:mcDomino;
 
 	public function Texas42():void {
 		
@@ -78,12 +78,10 @@
 		westHand = new Array();
 		
 		// create array for vertical points counter
-		var _vertPoints:Array =["Pass", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42"];
-		vertPoints.createlist(_vertPoints);
+		var _Points:Array =["Pass", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42"];
 		
 		// create array for vertical trump counter
-		var _vertTrump:Array = ["Pass", "Blanks", "Ones", "Twos", "Threes", "Fours", "Fives", "Sixes", "Doubles", "Follow Me"];
-		vertTrump.createlist(_vertTrump);
+		var _Trump:Array = ["Pass", "Blanks", "Ones", "Twos", "Threes", "Fours", "Fives", "Sixes", "Doubles", "Follow Me"];
 		
 		// make a list of domino numbers
 		var drawPile:Array = new Array();
@@ -93,7 +91,7 @@
 		
 		for(var x:uint=0;x<rowNum;x++) {
 			for(var y:uint=0;y<colNum;y++) {
-				var d:mc_Domino = new mc_Domino();
+				var d:mcDomino = new mcDomino();
 				d.stop();
 				d.x = x*dominoHorizontalSpacing + boardOffsetX;
 				d.y = y*dominoVerticalSpacing + boardOffsetY;
@@ -126,7 +124,7 @@
 			
 				
 		
-		var sD:mc_Domino = (event.currentTarget as mc_Domino);
+		var sD:mcDomino = (event.currentTarget as mcDomino);
 			trace(sD.dominoFace);
 			
 			southHand.push(sD.dominoFace);
@@ -144,7 +142,7 @@
 			
 				
 		
-		var nD:mc_Domino = (event.currentTarget as mc_Domino);
+		var nD:mcDomino = (event.currentTarget as mcDomino);
 			trace(nD.dominoFace);
 			
 			northHand.push(nD.dominoFace);
@@ -162,7 +160,7 @@
 			
 				
 		
-		var wD:mc_Domino = (event.currentTarget as mc_Domino);
+		var wD:mcDomino = (event.currentTarget as mcDomino);
 			trace(wD.dominoFace);
 			
 			westHand.push(wD.dominoFace);
@@ -180,7 +178,7 @@
 			
 				
 		
-		var eD:mc_Domino = (event.currentTarget as mc_Domino);
+		var eD:mcDomino = (event.currentTarget as mcDomino);
 			trace(eD.dominoFace);
 			
 			eastHand.push(eD.dominoFace);
