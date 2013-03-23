@@ -47,12 +47,11 @@
   </build>
   <!-- SWC Include Libraries -->
   <includeLibraries>
-    <!-- example: <element path="..." /> -->
+    <element path="lib\Texas42.swc" />
   </includeLibraries>
   <!-- SWC Libraries -->
   <libraryPaths>
     <element path="..\..\..\classes\com\mwm\framework\assets" />
-    <element path="lib\Texas42.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
