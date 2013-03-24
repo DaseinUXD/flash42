@@ -3,11 +3,11 @@ Flash42.swf Movie Report
 
 Frame #    Frame Bytes    Total Bytes    Scene
 -------    -----------    -----------    ----------------
-      1        4075828        4075828    Scene 1 (AS 3.0 Classes Export Frame)
+      1        4075883        4075883    Scene 1 (AS 3.0 Classes Export Frame)
 
 Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
 -------------------------    -----------    ----------    ------------------
-Scene 1                                0          1381                 28797
+Scene 1                                0          1381                 28852
 
 Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
 -------------------------    -----------    ----------    ------------------
@@ -64,61 +64,61 @@ Rockwell                      31250     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGH
 
 ActionScript Bytes    Location
 ------------------    --------
-               346    Scene 1:Frame 1:assets.fontRockwell
-               378    Scene 1:Frame 1:assets.bmpAllScoreCard
-               372    Scene 1:Frame 1:assets.bmpBrownPaper
-               393    Scene 1:Frame 1:assets.bmpDominoSpriteSheet
-               372    Scene 1:Frame 1:assets.bmpLeatherTab
-               354    Scene 1:Frame 1:assets.bmpLogo
-               387    Scene 1:Frame 1:assets.bmpPlayFieldDesign
-               366    Scene 1:Frame 1:assets.bmpTableTop
-               487    Scene 1:Frame 1:ui.btnBidButton
-               491    Scene 1:Frame 1:ui.btnPassButton
-               491    Scene 1:Frame 1:ui.btnPullButton
-               486    Scene 1:Frame 1:ui.shakeButton
-               568    Scene 1:Frame 1:assets.spAllScoreCard
-               473    Scene 1:Frame 1:assets.spBrownPaper
-               494    Scene 1:Frame 1:assets.spDominoSpriteSheet
-               479    Scene 1:Frame 1:assets.spLeatherPatch
-               455    Scene 1:Frame 1:assets.spLogo
-               651    Scene 1:Frame 1:assets.spPlayField
-               493    Scene 1:Frame 1:assets.spPlayFieldDesign
-               473    Scene 1:Frame 1:assets.spPlayerRack
-               467    Scene 1:Frame 1:assets.spStitches
-               472    Scene 1:Frame 1:assets.spTableTop
-               475    Scene 1:Frame 1:assets.spTrickPile
-               452    Scene 1:Frame 1:assets.sp_00
-               452    Scene 1:Frame 1:assets.sp_01
-               452    Scene 1:Frame 1:assets.sp_02
-               452    Scene 1:Frame 1:assets.sp_03
-               452    Scene 1:Frame 1:assets.sp_04
-               452    Scene 1:Frame 1:assets.sp_05
-               452    Scene 1:Frame 1:assets.sp_06
-               452    Scene 1:Frame 1:assets.sp_11
-               452    Scene 1:Frame 1:assets.sp_12
-               452    Scene 1:Frame 1:assets.sp_13
-               452    Scene 1:Frame 1:assets.sp_14
-               452    Scene 1:Frame 1:assets.sp_15
-               452    Scene 1:Frame 1:assets.sp_16
-               452    Scene 1:Frame 1:assets.sp_22
-               452    Scene 1:Frame 1:assets.sp_23
-               452    Scene 1:Frame 1:assets.sp_24
-               452    Scene 1:Frame 1:assets.sp_25
-               452    Scene 1:Frame 1:assets.sp_26
-               452    Scene 1:Frame 1:assets.sp_33
-               452    Scene 1:Frame 1:assets.sp_34
-               452    Scene 1:Frame 1:assets.sp_35
-               452    Scene 1:Frame 1:assets.sp_36
-               452    Scene 1:Frame 1:assets.sp_44
-               452    Scene 1:Frame 1:assets.sp_45
-               452    Scene 1:Frame 1:assets.sp_46
-               452    Scene 1:Frame 1:assets.sp_55
-               452    Scene 1:Frame 1:assets.sp_56
-               452    Scene 1:Frame 1:assets.sp_66
-               457    Scene 1:Frame 1:assets.sp_bk
-              4160    Scene 1:Frame 1:Flash42
-               576    Scene 1:Frame 1:assets.mcAllScoreAll
-               525    Scene 1:Frame 1:assets.mcDomino
+               347    Scene 1:Frame 1:assets.fontRockwell
+               379    Scene 1:Frame 1:assets.bmpAllScoreCard
+               373    Scene 1:Frame 1:assets.bmpBrownPaper
+               394    Scene 1:Frame 1:assets.bmpDominoSpriteSheet
+               373    Scene 1:Frame 1:assets.bmpLeatherTab
+               355    Scene 1:Frame 1:assets.bmpLogo
+               388    Scene 1:Frame 1:assets.bmpPlayFieldDesign
+               367    Scene 1:Frame 1:assets.bmpTableTop
+               488    Scene 1:Frame 1:ui.btnBidButton
+               492    Scene 1:Frame 1:ui.btnPassButton
+               492    Scene 1:Frame 1:ui.btnPullButton
+               487    Scene 1:Frame 1:ui.shakeButton
+               569    Scene 1:Frame 1:assets.spAllScoreCard
+               474    Scene 1:Frame 1:assets.spBrownPaper
+               495    Scene 1:Frame 1:assets.spDominoSpriteSheet
+               480    Scene 1:Frame 1:assets.spLeatherPatch
+               456    Scene 1:Frame 1:assets.spLogo
+               652    Scene 1:Frame 1:assets.spPlayField
+               494    Scene 1:Frame 1:assets.spPlayFieldDesign
+               474    Scene 1:Frame 1:assets.spPlayerRack
+               468    Scene 1:Frame 1:assets.spStitches
+               473    Scene 1:Frame 1:assets.spTableTop
+               476    Scene 1:Frame 1:assets.spTrickPile
+               453    Scene 1:Frame 1:assets.sp_00
+               453    Scene 1:Frame 1:assets.sp_01
+               453    Scene 1:Frame 1:assets.sp_02
+               453    Scene 1:Frame 1:assets.sp_03
+               453    Scene 1:Frame 1:assets.sp_04
+               453    Scene 1:Frame 1:assets.sp_05
+               453    Scene 1:Frame 1:assets.sp_06
+               453    Scene 1:Frame 1:assets.sp_11
+               453    Scene 1:Frame 1:assets.sp_12
+               453    Scene 1:Frame 1:assets.sp_13
+               453    Scene 1:Frame 1:assets.sp_14
+               453    Scene 1:Frame 1:assets.sp_15
+               453    Scene 1:Frame 1:assets.sp_16
+               453    Scene 1:Frame 1:assets.sp_22
+               453    Scene 1:Frame 1:assets.sp_23
+               453    Scene 1:Frame 1:assets.sp_24
+               453    Scene 1:Frame 1:assets.sp_25
+               453    Scene 1:Frame 1:assets.sp_26
+               453    Scene 1:Frame 1:assets.sp_33
+               453    Scene 1:Frame 1:assets.sp_34
+               453    Scene 1:Frame 1:assets.sp_35
+               453    Scene 1:Frame 1:assets.sp_36
+               453    Scene 1:Frame 1:assets.sp_44
+               453    Scene 1:Frame 1:assets.sp_45
+               453    Scene 1:Frame 1:assets.sp_46
+               453    Scene 1:Frame 1:assets.sp_55
+               453    Scene 1:Frame 1:assets.sp_56
+               453    Scene 1:Frame 1:assets.sp_66
+               458    Scene 1:Frame 1:assets.sp_bk
+              4161    Scene 1:Frame 1:Flash42
+               577    Scene 1:Frame 1:assets.mcAllScoreAll
+               526    Scene 1:Frame 1:assets.mcDomino
 
 Bitmap                     Compressed    Compression
 -----------------------    ----------  --------  -----------
