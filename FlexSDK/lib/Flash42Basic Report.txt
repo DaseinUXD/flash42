@@ -1,0 +1,147 @@
+Flash42Basic.swf Movie Report
+------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        3958326        3958326    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0          1037                 24481
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+TableTop_sp                            0             0                     0
+DominoSpriteSheet_sp                   0             0                     0
+Logo_sp                                0             0                     0
+spPlayFieldDesign                      0             0                     0
+PlayField_sp                         114             0                     0
+TrickPile_sp                          91           344                     0
+PlayerRack_sp                         75             0                     0
+BidButton_btn                          0           171                     0
+StartButton_btn                        0             0                     0
+PassButton_btn                         0           172                     0
+PullButton_btn                         0           172                     0
+spStitches                           344             0                     0
+ShakeButton_btn                      261           173                     0
+sp_bk                                  0             0                     0
+sp_66                                  0             0                     0
+sp_56                                  0             0                     0
+sp_55                                  0             0                     0
+sp_46                                  0             0                     0
+sp_45                                  0             0                     0
+sp_44                                  0             0                     0
+sp_36                                  0             0                     0
+sp_35                                  0             0                     0
+sp_34                                  0             0                     0
+sp_33                                  0             0                     0
+sp_26                                  0             0                     0
+sp_25                                  0             0                     0
+sp_24                                  0             0                     0
+sp_23                                  0             0                     0
+sp_22                                  0             0                     0
+sp_16                                  0             0                     0
+sp_15                                  0             0                     0
+sp_14                                  0             0                     0
+sp_13                                  0             0                     0
+sp_12                                  0             0                     0
+sp_11                                  0             0                     0
+sp_06                                  0             0                     0
+sp_05                                  0             0                     0
+sp_04                                  0             0                     0
+sp_03                                  0             0                     0
+sp_02                                  0             0                     0
+sp_01                                  0             0                     0
+sp_00                                  0             0                     0
+Domino_mc                              0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Rockwell                      31250     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+               394    Scene 1:Frame 1:assets.fontRockwell
+               508    Scene 1:Frame 1:BidButton_btn
+               513    Scene 1:Frame 1:PassButton_btn
+               513    Scene 1:Frame 1:PullButton_btn
+               518    Scene 1:Frame 1:ShakeButton_btn
+               510    Scene 1:Frame 1:DominoSpriteSheet_sp
+               458    Scene 1:Frame 1:Logo_sp
+               646    Scene 1:Frame 1:PlayField_sp
+               482    Scene 1:Frame 1:PlayerRack_sp
+               474    Scene 1:Frame 1:TableTop_sp
+               556    Scene 1:Frame 1:TrickPile_sp
+               486    Scene 1:Frame 1:assets.sp_00
+               486    Scene 1:Frame 1:assets.sp_01
+               486    Scene 1:Frame 1:assets.sp_02
+               486    Scene 1:Frame 1:assets.sp_03
+               486    Scene 1:Frame 1:assets.sp_04
+               486    Scene 1:Frame 1:assets.sp_05
+               486    Scene 1:Frame 1:assets.sp_06
+               486    Scene 1:Frame 1:assets.sp_11
+               486    Scene 1:Frame 1:assets.sp_12
+               486    Scene 1:Frame 1:assets.sp_13
+               486    Scene 1:Frame 1:assets.sp_14
+               486    Scene 1:Frame 1:assets.sp_15
+               486    Scene 1:Frame 1:assets.sp_16
+               486    Scene 1:Frame 1:assets.sp_22
+               486    Scene 1:Frame 1:assets.sp_23
+               486    Scene 1:Frame 1:assets.sp_24
+               486    Scene 1:Frame 1:assets.sp_25
+               486    Scene 1:Frame 1:assets.sp_26
+               486    Scene 1:Frame 1:assets.sp_33
+               486    Scene 1:Frame 1:assets.sp_34
+               486    Scene 1:Frame 1:assets.sp_35
+               486    Scene 1:Frame 1:assets.sp_36
+               486    Scene 1:Frame 1:assets.sp_44
+               486    Scene 1:Frame 1:assets.sp_45
+               486    Scene 1:Frame 1:assets.sp_46
+               486    Scene 1:Frame 1:assets.sp_55
+               486    Scene 1:Frame 1:assets.sp_56
+               486    Scene 1:Frame 1:assets.sp_66
+               491    Scene 1:Frame 1:assets.sp_bk
+               539    Scene 1:Frame 1:Domino_mc
+              4271    Scene 1:Frame 1:Flash42Basic
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+bk                              6944       68000   Lossless
+66                             10182       68000   JPEG Quality=100
+56                              9703       68000   JPEG Quality=100
+55                              9290       68000   JPEG Quality=100
+46                              9191       68000   JPEG Quality=100
+45                              8807       68000   JPEG Quality=100
+44                              8302       68000   JPEG Quality=100
+36                              8697       68000   JPEG Quality=100
+35                              8296       68000   JPEG Quality=100
+34                              7788       68000   JPEG Quality=100
+33                              7261       68000   JPEG Quality=100
+26                              8194       68000   JPEG Quality=100
+25                              7792       68000   JPEG Quality=100
+24                              7289       68000   JPEG Quality=100
+23                              6764       68000   JPEG Quality=100
+22                              6245       68000   JPEG Quality=100
+16                              7652       68000   JPEG Quality=100
+15                              7259       68000   JPEG Quality=100
+14                              6749       68000   JPEG Quality=100
+13                              6211       68000   JPEG Quality=100
+12                              5704       68000   JPEG Quality=100
+11                              5133       68000   JPEG Quality=100
+06                              7159       68000   JPEG Quality=100
+05                              6739       68000   JPEG Quality=100
+04                              6239       68000   JPEG Quality=100
+03                              5701       68000   JPEG Quality=100
+02                              5173       68000   JPEG Quality=100
+01                              4604       68000   JPEG Quality=100
+00                              4077       68000   JPEG Quality=100
+bmpLeatherTab                  43849      123600   Lossless
+bmpBrownPaper                2691563     4800000   Lossless
+bmpPlayFieldDesign              2833      105600   Lossless
+bmpLogo                        31348      123600   JPEG Quality=100
+bmpDominoSpriteSheet          149099     2097152   Lossless
+bmpTableTop                   763755     4800000   JPEG Quality=100
+
+
+
+

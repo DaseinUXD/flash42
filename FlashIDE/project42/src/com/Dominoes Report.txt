@@ -1,0 +1,110 @@
+Dominoes.swf Movie Report
+--------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         224526         224526    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                 12615
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Dominosp_00                            0             0                     0
+Dominosp_01                            0             0                     0
+Dominosp_02                            0             0                     0
+Dominosp_03                            0             0                     0
+Dominosp_04                            0             0                     0
+Dominosp_05                            0             0                     0
+Dominosp_06                            0             0                     0
+Dominosp_11                            0             0                     0
+Dominosp_12                            0             0                     0
+Dominosp_13                            0             0                     0
+Dominosp_14                            0             0                     0
+Dominosp_15                            0             0                     0
+Dominosp_16                            0             0                     0
+Dominosp_22                            0             0                     0
+Dominosp_23                            0             0                     0
+Dominosp_24                            0             0                     0
+Dominosp_25                            0             0                     0
+Dominosp_26                            0             0                     0
+Dominosp_33                            0             0                     0
+Dominosp_34                            0             0                     0
+Dominosp_35                            0             0                     0
+Dominosp_36                            0             0                     0
+Dominosp_44                            0             0                     0
+Dominosp_45                            0             0                     0
+Dominosp_46                            0             0                     0
+Dominosp_55                            0             0                     0
+Dominosp_56                            0             0                     0
+Dominosp_66                            0             0                     0
+Dominosp_bk                            0             0                     0
+
+ActionScript Bytes    Location
+------------------    --------
+               435    Scene 1:Frame 1:Dominosp_00
+               435    Scene 1:Frame 1:Dominosp_01
+               435    Scene 1:Frame 1:Dominosp_02
+               435    Scene 1:Frame 1:Dominosp_03
+               435    Scene 1:Frame 1:Dominosp_04
+               435    Scene 1:Frame 1:Dominosp_05
+               435    Scene 1:Frame 1:Dominosp_06
+               435    Scene 1:Frame 1:Dominosp_11
+               435    Scene 1:Frame 1:Dominosp_12
+               435    Scene 1:Frame 1:Dominosp_13
+               435    Scene 1:Frame 1:Dominosp_14
+               435    Scene 1:Frame 1:Dominosp_15
+               435    Scene 1:Frame 1:Dominosp_16
+               435    Scene 1:Frame 1:Dominosp_22
+               435    Scene 1:Frame 1:Dominosp_23
+               435    Scene 1:Frame 1:Dominosp_24
+               435    Scene 1:Frame 1:Dominosp_25
+               435    Scene 1:Frame 1:Dominosp_26
+               435    Scene 1:Frame 1:Dominosp_33
+               435    Scene 1:Frame 1:Dominosp_34
+               435    Scene 1:Frame 1:Dominosp_35
+               435    Scene 1:Frame 1:Dominosp_36
+               435    Scene 1:Frame 1:Dominosp_44
+               435    Scene 1:Frame 1:Dominosp_45
+               435    Scene 1:Frame 1:Dominosp_46
+               435    Scene 1:Frame 1:Dominosp_55
+               435    Scene 1:Frame 1:Dominosp_56
+               435    Scene 1:Frame 1:Dominosp_66
+               435    Scene 1:Frame 1:Dominosp_bk
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+bk                              6944       68000   Lossless
+66                             10182       68000   JPEG Quality=100
+56                              9703       68000   JPEG Quality=100
+55                              9290       68000   JPEG Quality=100
+46                              9191       68000   JPEG Quality=100
+45                              8807       68000   JPEG Quality=100
+44                              8302       68000   JPEG Quality=100
+36                              8697       68000   JPEG Quality=100
+35                              8296       68000   JPEG Quality=100
+34                              7788       68000   JPEG Quality=100
+33                              7261       68000   JPEG Quality=100
+26                              8194       68000   JPEG Quality=100
+25                              7792       68000   JPEG Quality=100
+24                              7289       68000   JPEG Quality=100
+23                              6764       68000   JPEG Quality=100
+22                              6245       68000   JPEG Quality=100
+16                              7652       68000   JPEG Quality=100
+15                              7259       68000   JPEG Quality=100
+14                              6749       68000   JPEG Quality=100
+13                              6211       68000   JPEG Quality=100
+12                              5704       68000   JPEG Quality=100
+11                              5133       68000   JPEG Quality=100
+06                              7159       68000   JPEG Quality=100
+05                              6739       68000   JPEG Quality=100
+04                              6239       68000   JPEG Quality=100
+03                              5701       68000   JPEG Quality=100
+02                              5173       68000   JPEG Quality=100
+01                              4604       68000   JPEG Quality=100
+00                              4077       68000   JPEG Quality=100
+
+
+
+

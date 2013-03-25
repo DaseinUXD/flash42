@@ -1,0 +1,139 @@
+Dominoes.swf Movie Report
+--------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         309417         309417    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                 22504
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Dominosp_00                            0             0                     0
+Dominosp_01                            0             0                     0
+Dominosp_02                            0             0                     0
+Dominosp_03                            0             0                     0
+Dominosp_04                            0             0                     0
+Dominosp_05                            0             0                     0
+Dominosp_06                            0             0                     0
+Dominosp_11                            0             0                     0
+Dominosp_12                            0             0                     0
+Dominosp_13                            0             0                     0
+Dominosp_14                            0             0                     0
+Dominosp_15                            0             0                     0
+Dominosp_16                            0             0                     0
+Dominosp_22                            0             0                     0
+Dominosp_23                            0             0                     0
+Dominosp_24                            0             0                     0
+Dominosp_25                            0             0                     0
+Dominosp_26                            0             0                     0
+Dominosp_33                            0             0                     0
+Dominosp_34                            0             0                     0
+Dominosp_35                            0             0                     0
+Dominosp_36                            0             0                     0
+Dominosp_44                            0             0                     0
+Dominosp_45                            0             0                     0
+Dominosp_46                            0             0                     0
+Dominosp_55                            0             0                     0
+Dominosp_56                            0             0                     0
+Dominosp_66                            0             0                     0
+Dominosp_bk                            0             0                     0
+
+ActionScript Bytes    Location
+------------------    --------
+               330    Scene 1:Frame 1:bmp00
+               330    Scene 1:Frame 1:bmp01
+               330    Scene 1:Frame 1:bmp02
+               330    Scene 1:Frame 1:bmp03
+               330    Scene 1:Frame 1:bmp04
+               330    Scene 1:Frame 1:bmp05
+               330    Scene 1:Frame 1:bmp06
+               330    Scene 1:Frame 1:bmp11
+               330    Scene 1:Frame 1:bmp12
+               330    Scene 1:Frame 1:bmp13
+               330    Scene 1:Frame 1:bmp14
+               330    Scene 1:Frame 1:bmp15
+               330    Scene 1:Frame 1:bmp16
+               330    Scene 1:Frame 1:bmp22
+               330    Scene 1:Frame 1:bmp23
+               330    Scene 1:Frame 1:bmp24
+               330    Scene 1:Frame 1:bmp25
+               330    Scene 1:Frame 1:bmp26
+               330    Scene 1:Frame 1:bmp33
+               330    Scene 1:Frame 1:bmp34
+               330    Scene 1:Frame 1:bmp35
+               330    Scene 1:Frame 1:bmp36
+               330    Scene 1:Frame 1:bmp44
+               330    Scene 1:Frame 1:bmp45
+               330    Scene 1:Frame 1:bmp46
+               330    Scene 1:Frame 1:bmp55
+               330    Scene 1:Frame 1:bmp56
+               330    Scene 1:Frame 1:bmp66
+               330    Scene 1:Frame 1:bmpbk
+               446    Scene 1:Frame 1:Dominosp_00
+               446    Scene 1:Frame 1:Dominosp_01
+               446    Scene 1:Frame 1:Dominosp_02
+               446    Scene 1:Frame 1:Dominosp_03
+               446    Scene 1:Frame 1:Dominosp_04
+               446    Scene 1:Frame 1:Dominosp_05
+               446    Scene 1:Frame 1:Dominosp_06
+               446    Scene 1:Frame 1:Dominosp_11
+               446    Scene 1:Frame 1:Dominosp_12
+               446    Scene 1:Frame 1:Dominosp_13
+               446    Scene 1:Frame 1:Dominosp_14
+               446    Scene 1:Frame 1:Dominosp_15
+               446    Scene 1:Frame 1:Dominosp_16
+               446    Scene 1:Frame 1:Dominosp_22
+               446    Scene 1:Frame 1:Dominosp_23
+               446    Scene 1:Frame 1:Dominosp_24
+               446    Scene 1:Frame 1:Dominosp_25
+               446    Scene 1:Frame 1:Dominosp_26
+               446    Scene 1:Frame 1:Dominosp_33
+               446    Scene 1:Frame 1:Dominosp_34
+               446    Scene 1:Frame 1:Dominosp_35
+               446    Scene 1:Frame 1:Dominosp_36
+               446    Scene 1:Frame 1:Dominosp_44
+               446    Scene 1:Frame 1:Dominosp_45
+               446    Scene 1:Frame 1:Dominosp_46
+               446    Scene 1:Frame 1:Dominosp_55
+               446    Scene 1:Frame 1:Dominosp_56
+               446    Scene 1:Frame 1:Dominosp_66
+               446    Scene 1:Frame 1:Dominosp_bk
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+bmpbk                           6944       68000   Lossless
+bmp66                          15601       68000   Lossless
+bmp56                          14734       68000   Lossless
+bmp55                          13862       68000   Lossless
+bmp46                          13806       68000   Lossless
+bmp45                          12885       68000   Lossless
+bmp44                          11879       68000   Lossless
+bmp36                          12942       68000   Lossless
+bmp35                          12052       68000   Lossless
+bmp34                          11041       68000   Lossless
+bmp33                          10159       68000   Lossless
+bmp26                          11987       68000   Lossless
+bmp25                          11068       68000   Lossless
+bmp24                          10041       68000   Lossless
+bmp23                           9172       68000   Lossless
+bmp22                           8126       68000   Lossless
+bmp16                          10924       68000   Lossless
+bmp15                          10026       68000   Lossless
+bmp14                           8974       68000   Lossless
+bmp13                           8122       68000   Lossless
+bmp12                           7075       68000   Lossless
+bmp11                           5987       68000   Lossless
+bmp06                           9895       68000   Lossless
+bmp05                           8966       68000   Lossless
+bmp04                           7929       68000   Lossless
+bmp03                           7055       68000   Lossless
+bmp02                           5960       68000   Lossless
+bmp01                           4815       68000   Lossless
+bmp00                           3304       68000   Lossless
+
+
+
+
